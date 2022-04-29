@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613803639581",
+    "project_id": "cienanuncios-a458a",
+    "storage_bucket": "cienanuncios-a458a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613803639581:android:2655e6d2de56f6782257f4",
+        "android_client_info": {
+          "package_name": "com.example.cienanuncios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613803639581-5kp7jmb28j4cr6pc6qn7g92ct1ug2cu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZH63itOolFJmovIks86XHIeNVkJYlnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613803639581-5kp7jmb28j4cr6pc6qn7g92ct1ug2cu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
